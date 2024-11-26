@@ -7,5 +7,5 @@ Este repositório foi criado para **centralizar** e **gerenciar** todas as ativi
 **Padrão de Diretórios** - Artefatos só podem ser criados dentro dessa estrutura estabelecida. 
 
 - [Documentoção](documentacao/) : Artefatos que promoverão a contextualização e problematização, assim como, as descrições das funcionalidades do produtos.
-- [+QuePDV]() : Artefatos de código/configuração do programa.
+- [+QuePDVendas]() : Artefatos de código/configuração do programa.
 - [+QueCompras]() : Artefatos de código/configuração do programa.
