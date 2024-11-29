@@ -1,18 +1,21 @@
 # O SISTEMA FARÁ
 
-Gestão de vendas no PDV e e-commerce:
+### Gestão de vendas no PDV e e-commerce:
 
-Registro de vendas realizadas no estabelecimento físico (PDV) e no e-commerce.
-Emissão de recibos ou comprovantes de compra.
-Gerenciamento básico de clientes:
+1. Registro de vendas realizadas no estabelecimento físico (PDV) e no e-commerce.
+2. Emissão de recibos ou comprovantes de compra.
 
-Cadastro de clientes com informações básicas (nome, e-mail, telefone).
-Consulta de histórico de compras individuais.
-Controle de estoque:
+### Gerenciamento básico de clientes:
 
-Registro de produtos com nome, preço e quantidade disponível.
-Atualização automática do estoque após cada venda.
-Sistema de Fidelização:
+1. Cadastro de clientes com informações básicas (nome, e-mail, telefone).
+2. Consulta de histórico de compras individuais.
+
+### Controle de estoque:
+
+1. Registro de produtos com nome, preço e quantidade disponível.
+2. Atualização automática do estoque após cada venda.
+  
+### Sistema de Fidelização:
 
 Acúmulo de pontos por compras realizadas.
 Consulta de saldo de pontos pelo cliente no e-commerce.
