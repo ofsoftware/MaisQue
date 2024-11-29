@@ -47,3 +47,14 @@ Customizações complexas:
 
 O layout e funcionalidades do e-commerce serão básicos, sem suporte para temas ou personalizações avançadas.
 Não permitirá integrações com múltiplas plataformas externas, como marketplaces ou ERPs robustos.
+
+# MVP
+### Essencial para o MVP do PDV:
+
+1. Cadastro de produtos.
+2. Gestão de vendas.
+
+### Essencial para o MVP do E-commerce:
+
+1. Exibição de catálogo de produtos.
+2. Carrinho de compras.
