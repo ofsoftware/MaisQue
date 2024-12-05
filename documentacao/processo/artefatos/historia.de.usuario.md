@@ -10,3 +10,6 @@
 **Utilidade:**  
 - Serve para guiar o desenvolvimento de funcionalidades e garantir que as entregas atendam às necessidades do cliente.  
 - As histórias ajudam a priorizar o trabalho, facilitando a organização e execução das atividades.
+
+**Instanciado:**  
+- Neste repositório, este artefato está no raíz do diretório [requisitos](/documentacao/requisitos/) com a seguinte padrão de identificação ...
