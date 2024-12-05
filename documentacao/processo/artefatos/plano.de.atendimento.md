@@ -12,3 +12,7 @@
 **Utilidade:**  
 - O **Plano de Atendimento** fornece a visão geral de como o trabalho será realizado, o que garante alinhamento entre o time de desenvolvimento e o **Dono do Produto**.  
 - Serve como referência para a execução das atividades e para o acompanhamento do progresso.
+
+**Instanciado:**
+- Neste repositório, este artefato será instanciado na ferramenta GitHUB Project, pois permite criar quadros Kanban, organizar tarefas e monitorar o progresso de forma visual. 
+
