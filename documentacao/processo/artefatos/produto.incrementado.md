@@ -12,4 +12,4 @@
 - Serve como base para feedback do cliente e para ajustes ou melhorias contínuas.
   
 **Instanciado:**  
-- O **Produto Incrementado** representará o produto funcional, executável, ele estará evoluído no seguinte diretório [codificacao]().  
+- O **Produto Incrementado** representará o produto funcional, executável, ele estará evoluído no seguinte diretório [codificação](/codificacao).  
