@@ -10,3 +10,6 @@
 **Utilidade:**  
 - O **Produto Incrementado** é utilizado nas revisões e demonstrações, mostrando o progresso feito até o momento.  
 - Serve como base para feedback do cliente e para ajustes ou melhorias contínuas.
+  
+**Instanciado:**  
+- O **Produto Incrementado** representará o produto funcional, executável, ele estará evoluído no seguinte diretório [codificacao]().  
